@@ -2,3 +2,4 @@ Generating private rsa key pair
 Generating private rsa key pair.pub
 debug.log
 debug.log
+.gitignore
